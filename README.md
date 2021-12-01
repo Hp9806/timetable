@@ -168,4 +168,5 @@ Execute the program
   </style>
 </html>
 ~~~
-# OUPUT
+# OUTPUT
+![TimeTable](./timetableharish.jpg)
